@@ -1,0 +1,8 @@
+---
+name: centos_base-checks
+title: Checks for centos_base cookbook
+summary: Checks to ensure CentOS box is up to snuff
+maintainer: David Alexander
+copyright: Grafeas Group, Ltd.
+license: MIT
+version: 0.1.0

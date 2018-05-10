@@ -1,0 +1,12 @@
+---
+require:
+  - 'cookstyle'
+
+AllCops:
+  TargetRubyVersion: 2.3
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Encoding:
+  Enabled: false
